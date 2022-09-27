@@ -39,6 +39,9 @@ I’m passionate about the industry and always seeking out what I can work on ne
 <br />
 
 #
+![GitHub metrics](https://metrics.lecoq.io/umarsayyad)
+#
+
 
 ### 📊 Stats
 
