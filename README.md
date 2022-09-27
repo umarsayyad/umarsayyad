@@ -12,10 +12,10 @@ As a software engineer, I have worked for companies in health, security, insuran
 I’m passionate about the industry and always seeking out what I can work on next. Software development is an industry where there is always room to grow, and this has become more important to me every single day of my career.
 </p>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/umar-sayyad-22702952/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/umar__sayyad?lang=en">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
