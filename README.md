@@ -5,7 +5,7 @@
 </div>
 
 <p >
-<h2 >Umar Sayyad: Full Stack Developer</h2>
+<h2 >Umar Sayyad: Software Engineer</h2>
 
 When you ask me about myself, there will always be the question of which side of me you would like to understand. Professionally, I am an experienced software developer. My years have been spent creating compelling frameworks and responsive designs. I have experience in analytics, front and back-end development, and even graphic design. 
 As a software engineer, I have worked for companies in health, security, insurance—and various other industries too. I have been lucky enough to lead the kind of career that has exposed me to all kinds of exciting projects. One day I might be working on app design, another day I might be creating coded animated storyboards.
