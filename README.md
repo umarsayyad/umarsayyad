@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="[https://lh3.googleusercontent.com/pw/AL9nZEXdhYq5skhU__yh1PvKIHPp9CUh9fFXySQvCxY52481bWjK5oB9V_2_TBJRpyDTKCXpIJgLkcwrAedn6MUfodDDaK-UZ8swKvDfAcJQMTBO0JE465LXVvz9VA0vFaWiSkowWQ1Dtve_TLFMoFZ1h4xlVg=w1278-h439-no?authuser=0](https://umarsayyad.com/wp-content/uploads/2023/10/umar-sayyad-white2.png#86)" width="800"/>
+  <img src="https://www.umarsayyad.com/wp-content/uploads/2023/10/umar-sayyad-white2.png#86" width="800"/>
   
 </div>
 
