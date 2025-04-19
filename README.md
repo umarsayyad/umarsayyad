@@ -1,8 +1,4 @@
-<div id="header" align="center">
 
-  <img src="https://www.umarsayyad.com/wp-content/uploads/2023/10/umar-sayyad-white2.png#86" width="800"/>
-  
-</div>
 
 <p >
 <h2 >Umar Sayyad: Software Engineer</h2>
